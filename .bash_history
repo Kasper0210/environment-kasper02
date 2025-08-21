@@ -20,3 +20,17 @@ eman check-verilator
 ./eman.sh
 ./eman.sh
 ./eman.sh
+conda activate 001
+conda list
+cinda init
+conda init
+conda activate 001
+conda activate 001
+conda create 001
+conda create 001
+conda activate 001
+conda info --envs
+conda create abc
+conda create -n myenv python=3.10
+conda create -n myenv 
+conda activate myenv
